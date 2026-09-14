@@ -1,0 +1,4 @@
+repository "AY2627_ATGT_Group03_lab01@tj_wong_pak_hei_2005@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
